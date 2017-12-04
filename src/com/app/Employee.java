@@ -6,5 +6,6 @@ public class Employee
 	private String Name;
 	private double Sal;
 	private String loc;
+	private String no;
 
 }
